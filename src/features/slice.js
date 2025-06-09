@@ -65,11 +65,7 @@ const initialState = {
       feedback:
         "Without a doubt, the classes offered by this society are superior, I've encountered within the social organizations I've participated in.",
     },
-    {
-      name: "Saumyajit Chatterjee",
-      feedback:
-        "The classes offered by this society are truly exceptional and stand out amongst all the other societies I've had the privilege of learning from.",
-    },
+    
   ],
   sliders: [
     {
